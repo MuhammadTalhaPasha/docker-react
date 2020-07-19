@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>Komal Kamm Chor!</h1>
     </div>
   );
 }
